@@ -1,0 +1,2 @@
+# Graduation_project_MS
+这是毕业设计的后台管理系统，采用vue脚手架2搭建
